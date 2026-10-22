@@ -1,10 +1,9 @@
 # 📱 App Calculadora (iOS Style)
 
-Aplicativo mobile de calculadora desenvolvido com **React Native**, **Expo** e **Google Antigravity**, com layout inspirado no design clássico do iOS.
-
----
 
 <div align="center">
+Aplicativo mobile de calculadora desenvolvido com **React Native**, **Expo** e **Google Antigravity**, com layout inspirado no design clássico do iOS.
+
 
 https://github.com/user-attachments/assets/a7bef345-a0d6-4f25-a42f-31e89899bcf0
 
