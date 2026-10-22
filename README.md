@@ -19,6 +19,7 @@ Aplicativo mobile de calculadora desenvolvido com **React Native**, **Expo** e *
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/) (SDK 57)
+- [Google Antigravity](https://antigravity.google/)      
 - [Expo Router](https://docs.expo.dev/router/introduction/) (Navegação baseada em rotas)
 - [TypeScript](https://www.typescriptlang.org/)
 - [@expo/vector-icons](https://icons.expo.fyi/)
