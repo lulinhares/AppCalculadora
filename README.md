@@ -6,11 +6,15 @@ Aplicativo mobile de calculadora desenvolvido com **React Native**, **Expo** e *
 
 <div align="center">
 
-![Calculadora](https://github.com)
+![Calculadora]([https://github.com](https://github.com/user-attachments/assets/a7bef345-a0d6-4f25-a42f-31e89899bcf0
+))
 
 </div>
 
 ---
+
+
+
 
 ## ✨ Funcionalidades
 
