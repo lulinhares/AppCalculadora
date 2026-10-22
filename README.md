@@ -4,6 +4,10 @@ Aplicativo mobile de calculadora desenvolvido com **React Native**, **Expo** e *
 
 ---
 
+https://github.com/user-attachments/assets/15e37918-d679-4384-8e5d-24144fca6151
+
+---
+
 ## ✨ Funcionalidades
 
 - ➕ **Operações Básicas:** Soma, subtração, multiplicação e divisão.
