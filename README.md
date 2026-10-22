@@ -1,6 +1,6 @@
 # 📱 App Calculadora (iOS Style)
 
-Aplicativo mobile de calculadora desenvolvido com **React Native** e **Expo**, com layout elegante e moderno inspirado no design clássico do iOS.
+Aplicativo mobile de calculadora desenvolvido com **React Native**, **Expo** e **Google Antigravity**, com layout inspirado no design clássico do iOS.
 
 ---
 
@@ -15,7 +15,7 @@ Aplicativo mobile de calculadora desenvolvido com **React Native** e **Expo**, c
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Principais Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/) (SDK 57)
@@ -68,9 +68,3 @@ Aplicativo mobile de calculadora desenvolvido com **React Native** e **Expo**, c
 4. **Abra no seu dispositivo:**
    - **Android:** Abra o app **Expo Go** e escaneie o QR Code que aparece no terminal.
    - **iOS:** Abra a câmera padrão do iPhone e escaneie o QR Code para abrir no Expo Go.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
